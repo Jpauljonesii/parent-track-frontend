@@ -1,3 +1,12 @@
+# Parent Tracker Frontend
+
+**Author** John P. Jones II
+
+description of what app solves....
+
+Allows parents to keep track of activities and task they need to do for their children on a daily basis.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
